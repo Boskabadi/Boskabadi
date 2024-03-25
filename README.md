@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morebo
 - 👀 I’m interested in Hybrid Modeling for Process Optimization
-- 🌱 I’m currently learning differen data_driven model
+- 🌱 I’m currently working on machine learning and hybrid modeling
 - 💞️ I’m looking to collaborate on KTB1 
 - 📫 How to reach me : morebo@kt.dtu.dk
 
